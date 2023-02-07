@@ -1,3 +1,7 @@
+class Master-code
+{
+   :::::MASTER-CODE:::::
+}
 class Demo
 {
   public static void main(...)
