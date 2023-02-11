@@ -1,4 +1,11 @@
-
+class Bank
+{
+  void deposite()
+  {
+   bal = bal + amt
+  }	   
+ 	  
+}
 class Temp
 {
   void Demo_code()
