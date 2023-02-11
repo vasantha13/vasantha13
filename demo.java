@@ -1,9 +1,25 @@
+
 class Temp
 {
   void Demo_code()
   {
    s.o.print(" Test code");
   }	  
+}
+
+
+class Test
+{
+  void Add()
+  
+ {
+   c=a+b
+ }
+
+ void Sub()
+ {
+ c=a-b
+ }	 
 }
 
 class Master-code
