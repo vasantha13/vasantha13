@@ -1,3 +1,11 @@
+class Temp
+{
+  void Demo_code()
+  {
+   s.o.print(" Test code");
+  }	  
+}
+
 class Master-code
 {
    :::::MASTER-CODE:::::
