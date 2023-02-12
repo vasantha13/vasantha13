@@ -1,10 +1,14 @@
 class code-A
 {
-::: code-A:::
+::: code-A :::
 }
 class code-B
 {
-::: code-B:::
+::: code-B :::
+}
+class code-C
+{
+::: code-c :::
 }
 class Bank
 {
