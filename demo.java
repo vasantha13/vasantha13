@@ -1,3 +1,7 @@
+class code-A
+{
+::: code-A:::
+}
 class Bank
 {
   void deposite()
