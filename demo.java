@@ -2,6 +2,10 @@ class code-A
 {
 ::: code-A:::
 }
+class code-B
+{
+::: code-B:::
+}
 class Bank
 {
   void deposite()
