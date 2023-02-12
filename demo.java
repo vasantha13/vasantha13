@@ -4,7 +4,11 @@ class Bank
   {
    bal = bal + amt
   }	   
- 	  
+   
+   void withdrow()
+   {
+    bal = bal + amt
+   }	   
 }
 class Temp
 {
