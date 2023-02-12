@@ -5,6 +5,10 @@ void Branch-code1()
 {
 printf("Branch-code1"); 
 }	
+void Branch-code2()
+{
+printf("Branch-code2");
+}	
 class code-A
 {
 ::: code-A:::
